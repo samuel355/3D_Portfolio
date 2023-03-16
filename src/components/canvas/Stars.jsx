@@ -1,9 +1,9 @@
+import React from 'react'
+
 const StarsCanvas = () => {
   return (
-    <div className='w-full h-auto absolute inset-0 z-[-1]'>
-      Stars
-    </div>
-  );
-};
+    <div>StarsCanvas</div>
+  )
+}
 
-export default StarsCanvas;
+export default StarsCanvas
